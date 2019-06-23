@@ -15,7 +15,7 @@ class App < Sinatra::Base
   
   get '/favorite_song' do 
     
-    "My favorite song is ?"
+    "My favorite song is kind blue"
   
   end
   
